@@ -1,0 +1,28 @@
+body {
+  font-family: monospace;
+  background: #333;
+  color: whitesmoke;
+}
+
+#app {
+  background: black;
+  padding: 2em;
+}
+.btn {
+  border: none;
+  padding: 1em;
+  cursor: pointer;
+}
+.result {
+  margin-top: 1em;
+  padding: 1em;
+  border: 2px solid whitesmoke;
+}
+p {
+  //
+}
+
+h2 {
+  background: orange;
+  padding: 1em;
+}
